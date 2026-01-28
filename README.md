@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Jayavardhan Raju👋
 
-<!--
-**jayavardhan-raju/jayavardhan-raju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Salesforce Application Architect** with 15+ years designing and delivering enterprise CRM solutions across industries.
 
-Here are some ideas to get you started:
+### What I do
+- Architect large-scale Salesforce implementations at Deloitte
+- Drive front-office digital transformation for Fortune 500 clients
+- Explore intersections of **Generative AI** and CRM platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Credentials
+- 🏅 11x Salesforce Certified 
+- 🎓 B.E. Information Science
+
+### Recent Blogs and Videos
+https://www.jayraju.com/
+
+### Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayavardhan-raju-6643b067/)
