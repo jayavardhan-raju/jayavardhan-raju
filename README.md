@@ -13,7 +13,8 @@
 
 ### Recent Blogs and Videos
 https://www.jayraju.com/
-\n https://www.jayraju.com/?post=7
+
+https://www.jayraju.com/?post=7
 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayavardhan-raju-6643b067/)
